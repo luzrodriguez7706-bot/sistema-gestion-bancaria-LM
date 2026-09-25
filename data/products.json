@@ -1,0 +1,124 @@
+[
+  {
+    "id": "credito-libre-inversion",
+    "nombre": "Crédito de Libre Inversión",
+    "categoria": "credito",
+    "descripcion": "Obtén el crédito que necesitas para hacer realidad tus proyectos personales.",
+    "detalles": "Financia estudios, viajes, remodelaciones o cualquier meta personal con tasas preferenciales y cuotas fijas durante toda la vigencia.",
+    "tasaReferencialEA": 12.5,
+    "plazoMinMeses": 12,
+    "plazoMaxMeses": 60,
+    "montoMinimo": 1000000,
+    "montoMaximo": 50000000,
+    "icono": "Wallet",
+    "beneficios": [
+      "Sin cobro por estudio de crédito",
+      "Tasa y cuota fija mensual",
+      "Plazos flexibles hasta 60 meses",
+      "Posibilidad de abonos extraordinarios a capital"
+    ],
+    "requisitos": [
+      "Ser mayor de 18 años",
+      "Certificación laboral reciente (mínimo 6 meses de antigüedad)",
+      "Desprendibles de pago de los últimos 3 meses",
+      "Copia de cédula de ciudadanía ampliada al 150%"
+    ]
+  },
+  {
+    "id": "credito-vivienda",
+    "nombre": "Crédito de Vivienda",
+    "categoria": "credito",
+    "descripcion": "Haz realidad el sueño de tener casa propia con las mejores condiciones del mercado.",
+    "detalles": "Financiación de hasta el 70% u 80% del valor de tu vivienda nueva o usada, con amplios plazos de amortización y beneficios tributarios.",
+    "tasaReferencialEA": 11.8,
+    "plazoMinMeses": 60,
+    "plazoMaxMeses": 240,
+    "montoMinimo": 30000000,
+    "montoMaximo": 500000000,
+    "icono": "Home",
+    "beneficios": [
+      "Financiación hasta 20 años",
+      "Acompañamiento jurídico y peritaje especializado",
+      "Aplica a subsidios gubernamentales vigentes",
+      "Seguros con cobertura integral"
+    ],
+    "requisitos": [
+      "Ingresos mínimos equivalentes a 2 SMMLV",
+      "Promesa de compraventa del inmueble",
+      "Certificado de tradición y libertad no mayor a 30 días",
+      "Extractos bancarios de los últimos 6 meses"
+    ]
+  },
+  {
+    "id": "credito-vehiculo",
+    "nombre": "Crédito de Vehículo",
+    "categoria": "credito",
+    "descripcion": "Financia el vehículo que siempre has querido de forma fácil y rápida.",
+    "detalles": "Crédito diseñado para adquisición de vehículos nuevos o usados de uso particular o comercial, con aprobación ágil y cómodos plazos.",
+    "tasaReferencialEA": 13.2,
+    "plazoMinMeses": 12,
+    "plazoMaxMeses": 72,
+    "montoMinimo": 10000000,
+    "montoMaximo": 150000000,
+    "icono": "Car",
+    "beneficios": [
+      "Financia hasta el 80% del valor comercial",
+      "Respuesta en menos de 24 horas hábiles",
+      "Convenios con concesionarios a nivel nacional",
+      "Póliza de seguro unificada"
+    ],
+    "requisitos": [
+      "Cotización o factura proforma del vehículo",
+      "Edad entre 20 y 70 años",
+      "Demostración de capacidad de pago",
+      "Documento de identidad vigente"
+    ]
+  },
+  {
+    "id": "cdt",
+    "nombre": "Certificado de Depósito a Término (CDT)",
+    "categoria": "inversion",
+    "descripcion": "Haz crecer tu dinero con seguridad y obtén excelentes rendimientos.",
+    "detalles": "Invierte tu capital a plazo fijo respaldado por el seguro de depósito Fogafín, garantizando rentabilidad fija conocida desde el primer día.",
+    "tasaReferencialEA": 9.0,
+    "plazoMinMeses": 3,
+    "plazoMaxMeses": 36,
+    "montoMinimo": 500000,
+    "montoMaximo": 1000000000,
+    "icono": "TrendingUp",
+    "beneficios": [
+      "Tasa garantizada durante todo el periodo",
+      "Protección total del capital con respaldo Fogafín",
+      "Elige el plazo que más se adapte a tu meta",
+      "Reinversión automática opcional"
+    ],
+    "requisitos": [
+      "Copia del documento de identidad",
+      "Declaración de origen de fondos",
+      "Monto mínimo de apertura: $500.000 COP"
+    ]
+  },
+  {
+    "id": "cuenta-ahorros",
+    "nombre": "Cuenta de Ahorros",
+    "categoria": "ahorro",
+    "descripcion": "Ahorra de forma fácil y segura, alcanzando tus metas poco a poco.",
+    "detalles": "Maneja tu dinero con disponibilidad 24/7 en canales digitales sin cuota de manejo durante el primer año y rentabilidad sobre saldo promedio.",
+    "tasaReferencialEA": 4.5,
+    "plazoMinMeses": 0,
+    "plazoMaxMeses": 0,
+    "montoMinimo": 0,
+    "montoMaximo": 500000000,
+    "icono": "PiggyBank",
+    "beneficios": [
+      "Cero cuota de manejo el primer año",
+      "Transferencias gratuitas a otras entidades",
+      "Tarjeta débito física y virtual inmediata",
+      "Notificaciones gratuitas por SMS y correo"
+    ],
+    "requisitos": [
+      "Cédula de ciudadanía o extranjería",
+      "Apertura 100% digital desde $0 COP"
+    ]
+  }
+]

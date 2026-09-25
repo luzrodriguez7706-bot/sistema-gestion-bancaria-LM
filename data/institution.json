@@ -1,0 +1,44 @@
+{
+  "nombreEntidad": "Finanzas Contigo",
+  "eslogan": "Impulsamos tus sueños con soluciones financieras a tu medida.",
+  "subtitulo": "Conoce nuestros productos y haz crecer tu futuro hoy.",
+  "mision": "Facilitar el acceso a productos y servicios financieros confiables, transparentes y accesibles, brindando a nuestros clientes y asesores herramientas innovadoras de consulta y simulación que impulsen decisiones financieras oportunas e informadas.",
+  "vision": "Ser reconocidos en el sector financiero como la entidad referente en cercanía, solidez y agilidad digital, transformando la experiencia de atención y asesoría con altos estándares de calidad humana y tecnológica.",
+  "valores": [
+    {
+      "titulo": "Seguridad",
+      "descripcion": "Protegemos tu información con los más altos estándares tecnológicos.",
+      "icono": "ShieldCheck"
+    },
+    {
+      "titulo": "Rapidez",
+      "descripcion": "Procesos ágiles y 100% digitales.",
+      "icono": "Zap"
+    },
+    {
+      "titulo": "Confianza",
+      "descripcion": "Más de 20 años acompañándote.",
+      "icono": "HeartHandshake"
+    }
+  ],
+  "contacto": {
+    "direccion": "Calle 123 # 45-67",
+    "ciudad": "Bogotá, Colombia",
+    "telefono": "(601) 123 4567",
+    "lineaNacional": "01 8000 912345",
+    "correo": "contacto@finanzascontigo.com",
+    "horarios": {
+      "lunesViernes": "Lunes a Viernes: 8:00 a.m. - 5:00 p.m.",
+      "sabados": "Sábados: 8:00 a.m. - 12:00 m."
+    }
+  },
+  "datosAcademicos": {
+    "institucion": "SENA - Centro Pecuario y Agroempresarial CPYA",
+    "programa": "Gestión Bancaria y Entidades Financieras",
+    "competencia": "EV9 - Planeación y Diseño de un Sistema de Información para una Entidad Financiera",
+    "ficha": "3230956",
+    "aprendiz": "Luz Marina Palacios Rodriguez",
+    "instructor": "Junior Alexander Celis Bedoya",
+    "sede": "La Dorada, Caldas"
+  }
+}

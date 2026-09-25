@@ -1,0 +1,48 @@
+{
+  "creditos": {
+    "credito-libre-inversion": {
+      "nombre": "Crédito de Libre Inversión",
+      "tasaEA": 12.5,
+      "montoSugerido": 20000000,
+      "plazoSugeridoMeses": 36,
+      "plazoMinimoMeses": 12,
+      "plazoMaximoMeses": 60,
+      "montoMinimo": 1000000,
+      "montoMaximo": 50000000
+    },
+    "credito-vivienda": {
+      "nombre": "Crédito de Vivienda",
+      "tasaEA": 11.8,
+      "montoSugerido": 120000000,
+      "plazoSugeridoMeses": 180,
+      "plazoMinimoMeses": 60,
+      "plazoMaximoMeses": 240,
+      "montoMinimo": 30000000,
+      "montoMaximo": 500000000
+    },
+    "credito-vehiculo": {
+      "nombre": "Crédito de Vehículo",
+      "tasaEA": 13.2,
+      "montoSugerido": 45000000,
+      "plazoSugeridoMeses": 48,
+      "plazoMinimoMeses": 12,
+      "plazoMaximoMeses": 72,
+      "montoMinimo": 10000000,
+      "montoMaximo": 150000000
+    }
+  },
+  "cdt": {
+    "montoSugerido": 10000000,
+    "plazoSugeridoMeses": 12,
+    "montoMinimo": 500000,
+    "plazos": [
+      { "meses": 3, "tasaEA": 8.0 },
+      { "meses": 6, "tasaEA": 8.5 },
+      { "meses": 12, "tasaEA": 9.0 },
+      { "meses": 18, "tasaEA": 9.25 },
+      { "meses": 24, "tasaEA": 9.6 },
+      { "meses": 36, "tasaEA": 10.0 }
+    ]
+  },
+  "ultimaActualizacion": "2026-09-24T20:30:00.000Z"
+}
